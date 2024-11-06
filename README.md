@@ -51,7 +51,7 @@ Before you begin, ensure you have:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/readEmails.git
+git clone https://github.com/Danjari/readEmails.git
 cd readEmails
 ```
 
